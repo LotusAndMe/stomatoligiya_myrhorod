@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Олег Гаркавенко
+N:Гаркавенко;Олег;;;
+TEL;TYPE=CELL:+380990020366
+TEL;TYPE=WORK:+380987915265
+item1.ADR:;;вулиця Гоголя\, 54;Миргород;Poltavs'ka oblast;37600;UA;вулиця Г
+ оголя\, 54\nМиргород\nPoltavs'ka oblast\nUA\n37600
+item1.X-ABLabel:
+item2.ORG:Стоматологічна клініка в Миргороді СтоматологІя
+item2.X-ABLabel:
+URL;TYPE=WORK:http\://stomatologiya.zzz.com.ua/
+NOTE:Стоматологічні послуги
+CATEGORIES:myContacts
+END:VCARD
